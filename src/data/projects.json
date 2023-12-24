@@ -9,7 +9,7 @@
   },
   {
     "title": "reSSSipes",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/reSSSipes.png",
     "description": "A recipe-sharing platform, where chefs worldwide converge to share their creations.platform serves as a dynamic space for culinary enthusiasts and professionals alike. From international delicacies to homegrown favorites, our community is a melting pot of flavors, fostering connections between chefs and their followers.",
     "skills": ["React", "Express", "Node", "Mongodb"]
   }
