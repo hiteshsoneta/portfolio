@@ -1,26 +1,16 @@
 [
   {
-    "title": "Project A",
+    "title": "Consumer Behavior Analytics using Machine Learning Algorithms",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Leveraging user-generated content, such as reviews and ratings, offers enterprises valuable insights into consumer preferences and predictive behaviors",
+    "skills": ["Django", "ML Algorithms", "Javascript"],
+    "paper":"https://ieeexplore.ieee.org/document/9198562"
+
   },
   {
-    "title": "Project B",
+    "title": "reSSSipes",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "A recipe-sharing platform, where chefs worldwide converge to share their creations.platform serves as a dynamic space for culinary enthusiasts and professionals alike. From international delicacies to homegrown favorites, our community is a melting pot of flavors, fostering connections between chefs and their followers.",
+    "skills": ["React", "Express", "Node", "Mongodb"]
   }
 ]

@@ -24,15 +24,8 @@
     "title": "GraphQL",
     "imageSrc": "skills/graphql.png"
   },
-  {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
-  },
-  {
   
-  "title": "Python",
-  "imageSrc": "skills/python.jpeg"
-},
+  
 {
   
   "title": "Nest.js",
@@ -45,7 +38,22 @@
 },
 {
   
+  "title": "Python",
+  "imageSrc": "skills/python.jpeg"
+},
+{
+  
+  "title": "MySQL",
+  "imageSrc": "skills/mysql.png"
+},
+{
+  "title": "MongoDB",
+  "imageSrc": "skills/mongodb.png"
+},
+{
+  
   "title": "Power BI",
   "imageSrc": "skills/power.png"
 }
+
 ]

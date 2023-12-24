@@ -41,7 +41,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>Power Bi Developer</h3>
+              <h3>Power BI Developer</h3>
               <p>
               I have developed comprehensive reports with interactive visuals and multipage dashboards to enhance
 data-driven insights
