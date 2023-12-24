@@ -15,8 +15,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+              "I'm a seasoned frontend developer with a focus on building responsive and optimized sites. My expertise lies in creating visually appealing interfaces that deliver a seamless and efficient user experience."
               </p>
             </div>
           </li>
@@ -25,8 +24,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+              "I bring a wealth of expertise in developing high-performance and optimized back-end systems and APIs. My experience is rooted in crafting fast, efficient solutions that seamlessly integrate with diverse applications and enhance overall system functionality."
               </p>
             </div>
           </li><li className={styles.aboutItem}>
@@ -43,8 +41,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Power BI Developer</h3>
               <p>
-              I have developed comprehensive reports with interactive visuals and multipage dashboards to enhance
-data-driven insights
+              "I specialize in developing comprehensive reports featuring interactive visuals and multipage dashboards, elevating data-driven insights. My expertise lies in creating dynamic and user-friendly data presentations to empower effective decision-making."
               </p>
             </div>
           </li>
